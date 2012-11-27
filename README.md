@@ -10,7 +10,7 @@ Tutorial
 
 2.Copy all your tmx files to the Resources folder.
 
-3.Select a type from the left of the main screen and click "Convert".
+3.Select a type from the left of the main screen then click "Convert".
 
 4.If your selected "To High"(By Default), the result will locate in "gaoqing" folder with the original file name.Otherwise, it will locate in "diqing" folder.
 
