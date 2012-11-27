@@ -14,3 +14,5 @@ Tutorial
 
 4.If your selected "To High"(By Default), the result will locate in "gaoqing" folder with the original file name.Otherwise, it will locate in "diqing" folder.
 
+How to contact me:
+QQ:358025408
