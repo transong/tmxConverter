@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="96" height="32" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tile_obstable" tilewidth="32" tileheight="32">
+  <image source="tile_obstable.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="layer" width="96" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztyddRQlEAANEHKNAGKmAbEsQ2yLSBSGiDJLRhILRBpgy2ifvBzO7M+dooMjMzMzMzMzMzMzMzMzMzMzOzey2GOBJ4wCOSSCHtD/4zeMIzXpBFDnm8+oP/NxRQRAllvKOCD3/wX0UNdTTQRAttdPzBfxef6OELfQwwxMgf/I8xwRQzzPGNBZb+4P8Hv/jDP1ZYY4OtP/jfYY8DjjjhjAuu/uD/BvqxXZA=
+  </data>
+ </layer>
+ <objectgroup color="#a40f57" name="object" width="96" height="32">
+  <object x="288" y="512">
+   <polygon points="0,0 -64,128 64,128"/>
+  </object>
+  <object x="544" y="608">
+   <polyline points="0,0 256,32 576,0 850,-50 1026,-112"/>
+  </object>
+  <object x="966" y="196">
+   <polygon points="0,0 -10,166 102,52"/>
+  </object>
+ </objectgroup>
+</map>
