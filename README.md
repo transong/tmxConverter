@@ -2,7 +2,7 @@ tmxConverter
 ============
 cocos2d/cocos2d-x tiled map converter
 
-A convenient tool to convert tmx(tiled map) from low resolution to high resolution and vise versa.
+A convenient tool to convert tmx(tiled map) from low resolution to high resolution and vise versa.Free your hand from manually modify the tile map to other resolution.
 
 Tutorial
 
