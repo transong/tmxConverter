@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="96" height="32" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="tile_obstable" tilewidth="16" tileheight="16">
+  <image source="tile_obstable.png" width="512" height="512"/>
+ </tileset>
+ <layer name="layer" width="96" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztyddRQlEAANEHKNAGKmAbEsQ2yLSBSGiDJLRhILRBpgy2ifvBzO7M+dooMjMzMzMzMzMzMzMzMzMzMzOzey2GOBJ4wCOSSCHtD/4zeMIzXpBFDnm8+oP/NxRQRAllvKOCD3/wX0UNdTTQRAttdPzBfxef6OELfQwwxMgf/I8xwRQzzPGNBZb+4P8Hv/jDP1ZYY4OtP/jfYY8DjjjhjAuu/uD/BvqxXZA=
+  </data>
+ </layer>
+</map>
