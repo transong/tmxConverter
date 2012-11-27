@@ -12,5 +12,5 @@ Tutorial
 
 3.Select a type from the left of the main screen and click "Convert".
 
-4.If your selected "To High"(By Default), the result will locate in "gaoqing" folder with the origin file name.otherwise, it will locate in "diqing" folder.
+4.If your selected "To High"(By Default), the result will locate in "gaoqing" folder with the original file name.Otherwise, it will locate in "diqing" folder.
 
